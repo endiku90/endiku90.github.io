@@ -1,13 +1,15 @@
 site_name: endiku's Cookbook
 site_url: https://endiku90.github.io
+site_description: Cheatsheets, writeups, and some extra notes.
+site_author: borja
+
 theme:
   name: material
   features:
     - navigation.path
     - navigation.indexes
-  icon:
-    logo: fontawesone/solid/hat-cowboy
- 
+
+  logo: img/mute.svg
   
   language: en
   icon:
