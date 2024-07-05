@@ -3,8 +3,6 @@ site_name: endiku's Cookbook
 theme:
   icon:
     logo: material/alpha-h-box
-    admonition:
-      <type>: material/alert-box-outline
 
     
 
