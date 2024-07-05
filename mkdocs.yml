@@ -5,7 +5,7 @@ theme:
     logo: material/alpha-h-box
     admonition:
       <type>: material/alert-box-outline
-  favicon: img/favicon.png
+
     
 
   name: material
