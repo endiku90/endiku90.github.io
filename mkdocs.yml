@@ -1,0 +1,67 @@
+site_name: endiku's Cookbook
+
+theme:
+  icon:
+    logo: material/alpha-h-box
+    admonition:
+      <type>: material/alert-box-outline
+  favicon: img/favicon.png
+    
+
+  name: material
+  features:
+    - navigation.path
+    - navigation.indexes
+  language: en
+  icon:
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
+  
+  
+  palette:
+
+    # Palette toggle for light mode
+  - media: "(prefers-color-scheme: light)"
+    scheme: default 
+
+
+    toggle:
+      icon: material/toggle-switch-off-outline 
+      name: Switch to dark mode
+
+    # Palette toggle for dark mode
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to system preference
+
+  markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+  nav:
+  - Section:
+    - section/index.md
+    - Page 1: section/page-1.md
+  
+  - Section:
+    - Usage/index.md
+    - Page 1: Usage/notes.md
+
+  
+copyright: |
+  &copy; 2023 <a href="https://github.com/endiku90"  target="_blank" rel="noopener">Borja Royo Blázquez</a>
