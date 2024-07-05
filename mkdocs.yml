@@ -1,11 +1,12 @@
 site_name: endiku's Cookbook
+site_url: https://endiku90.github.io
 theme:
   name: material
   features:
     - navigation.path
     - navigation.indexes
   icon:
-    logo: img/mute.svc
+    logo: fontawesone/solid/hat-cowboy
  
   
   language: en
