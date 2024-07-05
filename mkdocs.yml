@@ -1,4 +1,4 @@
-site_name: endiku's Notebook
+site_name: endiku's Cookbook
 theme:
   name: material
   features:
@@ -16,15 +16,16 @@ theme:
 
 
     toggle:
-      icon: material/brightness-7
+      icon: material/toggle-switch-off-outline
       name: Switch to dark mode
 
     # Palette toggle for dark mode
   - media: "(prefers-color-scheme: dark)"
     scheme: slate
     toggle:
-      icon: material/brightness-4
-      name: Switch to system preference
+      icon: material/toggle-switch
+      name: Switch to light mode
+
 
   markdown_extensions:
   - pymdownx.highlight:
@@ -41,10 +42,10 @@ theme:
   - attr_list
 
   nav:
-  - Section:
+  - Machines:
     - section/index.md
-    - Page 1: section/page-1.md
+    - HTB Test: section/page-1.md
   
-  - Section:
+  - Cheatsheets:
     - section/index.md
-    - Page 1: section/page-1.md
+    - Linux: section/page-1.md
