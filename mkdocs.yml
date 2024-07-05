@@ -4,6 +4,10 @@ theme:
   features:
     - navigation.path
     - navigation.indexes
+  icon:
+    logo: img/mute.svc
+ 
+  
   language: en
   icon:
     previous: fontawesome/solid/angle-left
@@ -49,3 +53,6 @@ theme:
   - Cheatsheets:
     - section/index.md
     - Linux: section/page-1.md
+
+copyright: |
+  &copy; 2023 <a href="https://github.com/endiku90"  target="_blank" rel="noopener">Borja Royo Blázquez</a>
