@@ -1,9 +1,13 @@
-site_name: endiku Bullet Diary
+site_name: endiku's Notebook
 theme:
   name: material
   features:
     - navigation.path
+    - navigation.indexes
   language: en
+  icon:
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
   palette:
 
     # Palette toggle for light mode
@@ -21,3 +25,26 @@ theme:
     toggle:
       icon: material/brightness-4
       name: Switch to system preference
+
+  markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+
+  nav:
+  - Section:
+    - section/index.md
+    - Page 1: section/page-1.md
+  
+  - Section:
+    - section/index.md
+    - Page 1: section/page-1.md
