@@ -9,7 +9,7 @@ theme:
     - navigation.path
     - navigation.indexes
 
-  logo: img/mute.svg
+  logo: img/sound.png
   
   language: en
   icon:
@@ -50,8 +50,8 @@ theme:
 
   nav:
   - Machines:
-    - section/index.md
-    - HTB Test: section/page-1.md
+    - Usage/index.md
+    - HTB Usage: Usage/notes.md
   
   - Cheatsheets:
     - section/index.md
