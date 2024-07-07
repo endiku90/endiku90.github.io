@@ -54,7 +54,8 @@ theme:
   - Machines:
     - Usage/index.md
     - HTB Usage: HTB - Usage/notes.md
-  
+    - HTB Perfection: HTB_perfection/notes.md
+
   - Cheatsheets:
     - section/index.md
     - Linux: section/page-1.md
