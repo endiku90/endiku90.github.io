@@ -12,6 +12,8 @@ theme:
   logo: img/sound.png
   
   language: en
+
+
   icon:
     previous: fontawesome/solid/angle-left
     next: fontawesome/solid/angle-right
@@ -51,7 +53,7 @@ theme:
   nav:
   - Machines:
     - Usage/index.md
-    - HTB Usage: Usage/notes.md
+    - HTB Usage: HTB - Usage/notes.md
   
   - Cheatsheets:
     - section/index.md

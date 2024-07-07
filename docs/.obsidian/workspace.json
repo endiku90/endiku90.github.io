@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Usage/Notes.md",
+                "file": "Machines/HTB_perfection/notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Usage/Notes.md",
+                "file": "Machines/HTB_perfection/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Usage/Notes.md",
+                "file": "Machines/HTB_perfection/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Usage/Notes.md"
+                "file": "Machines/HTB_perfection/notes.md"
               }
             }
           }
@@ -147,5 +147,16 @@
     }
   },
   "active": "cac1e3dda84a2d29",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Pasted image 20240707170219.png",
+    "Machines/HTB_perfection/Perfection10.10.11.253.png",
+    "Pasted image 20240707105647.png",
+    "Pasted image 20240707104622.png",
+    "Pasted image 20240706202808.png",
+    "Pasted image 20240706184117.png",
+    "Machines/HTB_perfection/perfection.xmind",
+    "Machines/HTB_perfection/notes.md",
+    "Machines/HTB_perfection/content",
+    "Machines/HTB_perfection"
+  ]
 }
