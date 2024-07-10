@@ -1,12 +1,12 @@
-| Name            | Perfection                                          |
-| --------------- | --------------------------------------------------- |
-| Platform        | HTB                                                 |
-| Difficulty      | Easy                                                |
-| OS              | Linux                                               |
-| Used techniques | input validation bypass, SSTI, attack mask cracking |
-| Technologies    | Ruby, sqlite                                        |
-| Tools           | hashcat, burpsuit                                   |
-| CVEs            |                                                     |
+| Name            | Perfection                                                   |
+| --------------- | ------------------------------------------------------------ |
+| Platform        | HTB                                                          |
+| Difficulty      | Easy                                                         |
+| OS              | Linux                                                        |
+| Used techniques | input validation bypass, SSTI, attack mask cracking, sudo -l |
+| Technologies    | Ruby, sqlite                                                 |
+| Tools           | hashcat, burpsuit                                            |
+| CVEs            |                                                              |
 
 ## Enumeration
 
@@ -27,17 +27,17 @@ Possible users on web: tina smith, susan miller.
 
 ### Directories
 
-Just the ones in the web sit.
+Just the ones in the web site.
 
 
 ### Subdomains
 
-No subnomains.
+No subdomains.
 
 
 ## Foothold
 
-Functionality on /weighted-grade-calc.
+Functionality on */weighted-grade-calc*.
 
 "***Malicious input blocked***" message if we try to some injection. What should we look for? SQLi makes no sense since we are not requesting for data, however it makes "calculations", that means that somehow it interprets the input. It should be noted that it also reflects the input, so we ca go for XSS, but I may no be useful since it is a client-side vulnerability. First, we have to **bypass this input validation.** How may be able to bypass it? 
 
@@ -57,7 +57,8 @@ Ruby is on back-end, let's use his sintax:
 ![[Pasted image 20240707104622.png]]
 
 
-We got RCE.
+We got RCE, let's go for shell.
+Python3 payload + urlencoded.
 
 
 ![[Pasted image 20240707105647.png]]
