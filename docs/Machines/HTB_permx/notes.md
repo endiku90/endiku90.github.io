@@ -1,9 +1,9 @@
-| Name            | Usage                                                                               |
+| Name            | Permx                                                                               |
 | --------------- | ----------------------------------------------------------------------------------- |
 | Platform        | HTB                                                                                 |
-| Difficulty      | Permx                                                                               |
+| Difficulty      | Ezz                                                                               |
 | OS              | Linux                                                                               |
-| Used techniques | know exploit                                                                        |
+| Used techniques | known exploit                                                                        |
 | Technologies    | html, php, chamilo, hidden directories                                              |
 | Tools           | gobuster,  BurpSuite, sqlmap, nc, strings, weak perms, symlink, discover credential |
 | CVEs            | CVE-2023-34944                                                                      |
