@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machines/HTB_permx/notes.md",
+                "file": "Machines/HTB_Headless/commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machines/HTB_permx/notes.md",
+                "file": "Machines/HTB_Headless/commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machines/HTB_permx/notes.md",
+                "file": "Machines/HTB_Headless/commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machines/HTB_permx/notes.md"
+                "file": "Machines/HTB_Headless/commands.md"
               }
             }
           }
@@ -148,20 +148,22 @@
   },
   "active": "cac1e3dda84a2d29",
   "lastOpenFiles": [
-    "Machines/pag2.md",
+    "Machines/HTB_Headless/Headless10.10.16.8.jpg",
+    "Machines/HTB_Headless/notes.md",
+    "Pasted image 20240724154539.png",
+    "Pasted image 20240724154357.png",
+    "Pasted image 20240724154210.png",
+    "Pasted image 20240724154028.png",
+    "Pasted image 20240724153950.png",
+    "Pasted image 20240724153903.png",
+    "Pasted image 20240724151628.png",
+    "Pasted image 20240724145618.png",
+    "Machines/HTB_Headless/commands.md",
     "Machines/HTB_perfection/notes.md",
-    "Machines/HTB_perfection/Perfection10.10.11.253.png",
     "Machines/HTB_permx/notes.md",
-    "Machines/HTB_permx/permx10.10.11.23.png",
+    "Machines/pag2.md",
+    "Machines/HTB_perfection/Perfection10.10.11.253.png",
     "Machines/HTB_permx/commands.md",
-    "Pasted image 20240710080348.png",
-    "Pasted image 20240710075214.png",
-    "Pasted image 20240710075118.png",
-    "Pasted image 20240710075035.png",
-    "Pasted image 20240710074913.png",
-    "Pasted image 20240710073644.png",
-    "Pasted image 20240710073416.png",
-    "Pasted image 20240707170219.png",
     "Machines/HTB_perfection/perfection.xmind",
     "Machines/HTB_perfection/content",
     "Machines/HTB_perfection"
