@@ -55,6 +55,7 @@ theme:
     - Usage/index.md
     - HTB Usage: HTB - Usage/notes.md
     - HTB Perfection: HTB_perfection/notes.md
+    - HTB Headless: HTB_headless/notes.md
 
   - Cheatsheets:
     - section/index.md
