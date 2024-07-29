@@ -60,7 +60,11 @@ theme:
 
   
   - Theory:
-    - Theory
+    - Theory/Readme.md
+    - Conceptos: Conceptos/Deserialización.md
+    - Hackerone: Hackerone/Redox.md
+    - Disaster Box: Disaster Box/JNDI.md
+    - Disaster Box: Disaster Box/JNDI injection.md
 
 
 
