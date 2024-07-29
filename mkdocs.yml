@@ -59,10 +59,13 @@ theme:
 
   - Theory:
     - Theory/README.md
-    - Conceptos: Conceptos/Deserialización.md
-    - Hackerone: Hackerone/Redox.md
-    - Disaster Box: Disaster Box/JNDI.md
-    - Disaster Box: Disaster Box/JNDI injection.md
+    - Conceptos: 
+      - Deserialization: Conceptos/Deserialización.md
+    - Hackerone: 
+      - Redox: Hackerone/Redox.md
+    - Disaster Box:
+      - JNDI: Disaster Box/JNDI.md
+      - JNDI Injection: Disaster Box/JNDI injection.md
 
 
 
