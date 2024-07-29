@@ -57,8 +57,15 @@ theme:
     - HTB Perfection: HTB_perfection/notes.md
     - HTB Headless: HTB_headless/notes.md
 
+  - Disaster Box:
+    - Disaster Box/JNDI.md
+    - Disaster Box/JNDI injection.md
+    - Disaster Box/LDAP.md
+    - Disaster Box/Log4j.md
+    - Disaster Box/User-Agent.md
+
   - Cheatsheets:
-    - section/index.md
+    
     - Linux: section/page-1.md
 
 copyright: |

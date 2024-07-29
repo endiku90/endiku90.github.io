@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machines/HTB_Headless/commands.md",
+                "file": "Machines/HTB_Crafty/notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machines/HTB_Headless/commands.md",
+                "file": "Machines/HTB_Crafty/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machines/HTB_Headless/commands.md",
+                "file": "Machines/HTB_Crafty/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machines/HTB_Headless/commands.md"
+                "file": "Machines/HTB_Crafty/notes.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "cac1e3dda84a2d29",
   "lastOpenFiles": [
+    "Machines/HTB_Crafty/commands.md",
+    "Machines/HTB_Crafty/notes.md",
+    "Machines/HTB_Headless/commands.md",
     "Machines/HTB_Headless/Headless10.10.16.8.jpg",
     "Machines/HTB_Headless/notes.md",
     "Pasted image 20240724154539.png",
@@ -158,7 +161,6 @@
     "Pasted image 20240724153903.png",
     "Pasted image 20240724151628.png",
     "Pasted image 20240724145618.png",
-    "Machines/HTB_Headless/commands.md",
     "Machines/HTB_perfection/notes.md",
     "Machines/HTB_permx/notes.md",
     "Machines/pag2.md",
