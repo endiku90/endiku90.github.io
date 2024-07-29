@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machines/HTB_Crafty/notes.md",
+                "file": "Theory/HTB Academy/BBH Path/HTTP Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machines/HTB_Crafty/notes.md",
+                "file": "Theory/HTB Academy/BBH Path/HTTP Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machines/HTB_Crafty/notes.md",
+                "file": "Theory/HTB Academy/BBH Path/HTTP Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machines/HTB_Crafty/notes.md"
+                "file": "Theory/HTB Academy/BBH Path/HTTP Fundamentals.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "cac1e3dda84a2d29",
   "lastOpenFiles": [
-    "Machines/HTB_Crafty/commands.md",
     "Machines/HTB_Crafty/notes.md",
+    "Machines/HTB_Crafty/commands.md",
     "Machines/HTB_Headless/commands.md",
     "Machines/HTB_Headless/Headless10.10.16.8.jpg",
     "Machines/HTB_Headless/notes.md",
