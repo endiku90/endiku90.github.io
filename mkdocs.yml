@@ -63,6 +63,9 @@ theme:
     - LDAP: Disaster Box/LDAP.md
     - Log4j: Disaster Box/Log4j.md
     - User-Agent: Disaster Box/User-Agent.md
+  
+  - Theory:
+    - Theory
 
 
 copyright: |
