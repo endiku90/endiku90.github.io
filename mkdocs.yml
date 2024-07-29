@@ -58,15 +58,12 @@ theme:
     - HTB Headless: HTB_headless/notes.md
 
   - Disaster Box:
-    - Disaster Box/JNDI.md
-    - Disaster Box/JNDI injection.md
-    - Disaster Box/LDAP.md
-    - Disaster Box/Log4j.md
-    - Disaster Box/User-Agent.md
+    - JNDI: Disaster Box/JNDI.md
+    - JNDI Injection: Disaster Box/JNDI injection.md
+    - LDAP: Disaster Box/LDAP.md
+    - Log4j: Disaster Box/Log4j.md
+    - User-Agent: Disaster Box/User-Agent.md
 
-  - Cheatsheets:
-    
-    - Linux: section/page-1.md
 
 copyright: |
   &copy; 2023 <a href="https://github.com/endiku90"  target="_blank" rel="noopener">Borja Royo Blázquez</a>
