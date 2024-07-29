@@ -60,13 +60,8 @@ theme:
 
   
   - Theory:
-    - Conceptos: Conceptos/Deserializacion.md
-    - Disaster Box:
-      - JNDI: Disaster Box/JNDI.md
-      - JNDI Injection: Disaster Box/JNDI injection.md
-      - LDAP: Disaster Box/LDAP.md
-      - Log4j: Disaster Box/Log4j.md
-      - User-Agent: Disaster Box/User-Agent.md
+    - Theory
+
 
 
 copyright: |
