@@ -57,10 +57,8 @@ theme:
     - HTB Perfection: HTB_perfection/notes.md
     - HTB Headless: HTB_headless/notes.md
 
-
-  
   - Theory:
-    - Theory/Readme.md
+    - Theory/README.md
     - Conceptos: Conceptos/Deserialización.md
     - Hackerone: Hackerone/Redox.md
     - Disaster Box: Disaster Box/JNDI.md
