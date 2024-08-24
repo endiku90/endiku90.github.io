@@ -1,0 +1,11 @@
++----+--------------------+--------+--------------------------------------------------------------+---------------------+---------------------+----------------+-------------------+
+| id | email              | name   | password                                                     | created_at          | updated_at          | remember_token | email_verified_at |
++----+--------------------+--------+--------------------------------------------------------------+---------------------+---------------------+----------------+-------------------+
+| 1  | raj@raj.com        | raj    | $2y$10$7ALmTTEYfRVd8Rnyep/ck.bSFKfXfsltPLkyQqSp/TT7X1wApJt4. | 2023-08-17 03:16:02 | 2023-08-17 03:16:02 | NULL           | NULL              |
+| 2  | raj@usage.htb      | raj    | $2y$10$rbNCGxpWp1HSpO1gQX4uPO.pDg1nszoI/UhwHvfHDdfdfo9VmDJsa | 2023-08-22 08:55:16 | 2023-08-22 08:55:16 | NULL           | NULL              |
+| 3  | qwerty@qwerty.com  | qwerty | $2y$10$YHGNS2bPqD4ywb6kqQn/B.PjlRdvXDn/Awxo47RgLAihHb9AgDsA2 | 2024-07-04 11:13:15 | 2024-07-04 11:13:15 | NULL           | NULL              |
+| 4  | qwerty2@qwerty.com | qwerty | $2y$10$JtGUx8/gMa6RZiUQp9bbGeH0QktOGPBzu4M8SapDPWui.cwxrlHbG | 2024-07-04 11:31:25 | 2024-07-04 11:31:25 | NULL           | NULL              |
+| 5  | qwerty3@qwerty.com | admin  | $2y$10$.4rYlELvZMfQag7DSViiaOISSwki4ke7xt8IFYbvuLPdkDyfvycOa | 2024-07-04 11:31:46 | 2024-07-04 11:31:46 | NULL           | NULL              |
+| 6  | endiku@test.com    | endiku | $2y$10$8GiWyTk07jX33DIGMgntP.L/iXfHS/C91URPBhxJaEowgX9NHSBca | 2024-07-04 15:19:58 | 2024-07-04 15:19:58 | NULL           | NULL              |
++----+--------------------+--------+--------------------------------------------------------------+---------------------+---------------------+----------------+-------------------+
+
