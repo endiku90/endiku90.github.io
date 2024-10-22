@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1b427e5bbe16727",
+            "id": "dd43fff7727b3fc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/HTB Academy/Penetration Tester PATH/File Upload/Bypass filters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c5fe7b3cce6c9c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Disaster Box/Cheatsheet.md",
+                "file": "Theory/HTB Academy/Penetration Tester PATH/File Inclusion/PHP Filters.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ferox",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 428.5110321044922
   },
   "right": {
     "id": "815f6be64c89a6cb",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Disaster Box/Cheatsheet.md",
+                "file": "Theory/HTB Academy/Penetration Tester PATH/File Inclusion/PHP Filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Disaster Box/Cheatsheet.md",
+                "file": "Theory/HTB Academy/Penetration Tester PATH/File Inclusion/PHP Filters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Disaster Box/Cheatsheet.md"
+                "file": "Theory/HTB Academy/Penetration Tester PATH/File Inclusion/PHP Filters.md"
               }
             }
           }
@@ -159,53 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c5fe7b3cce6c9c6",
+  "active": "dd43fff7727b3fc4",
   "lastOpenFiles": [
-    "Machines/HTB_Devel/notes.md",
-    "Machines/HTB_iClean/notes.md",
-    "Theory/HTB Academy/Penetration Tester PATH/File Upload/Bypass filters.md",
-    "Theory/HTB Academy/Penetration Tester PATH/File Inclusion.md",
-    "Theory/HTB Academy/Penetration Tester PATH/File Upload",
-    "Machines/HTB_permx/commands.md",
-    "Machines/HTB_permx/notes.md",
-    "Machines/HTB_permx/permx10.10.11.23.png",
-    "Machines/HTB_season6_resource/notes.md",
-    "Machines/HTB_season6_resource/commmands.md",
-    "Machines/HTB_seasson6_sea/command.md",
-    "Machines/HTB_seasson6_sea/notes.md",
-    "Machines/HTB_lantern/notes.md",
-    "Disaster Box/ysoserial.md",
-    "Machines/HTB_Bizness/appendice.md",
-    "Disaster Box/XSS/xss-game.appspot.com.md",
-    "Machines/HTB_lantern/lantern.xmind",
-    "Machines/HTB_lantern",
-    "Disaster Box/Persistence with ssh key.md",
-    "Disaster Box/XSS",
-    "Machines/HTB_Bizness/notes.md",
-    "Machines/HTB_iClean/iClean.xmind",
-    "Machines/HTB_iClean",
-    "Pasted image 20240816215302.png",
-    "Disaster Box/Apache OFBiz.md",
-    "Disaster Box/Cheatsheet.md",
-    "Disaster Box/page-1.md",
-    "Pasted image 20240816184123.png",
+    "Theory/HTB Academy/Penetration Tester PATH/File Inclusion/Basic Bypasses.md",
+    "Theory/HTB Academy/Penetration Tester PATH/File Inclusion/PHP Filters.md",
+    "Theory/THM/SSRF.md",
+    "Theory/Windows/Persistence THM.md",
+    "Theory/HTB Academy/Penetration Tester PATH/File Inclusion/Local File Inclusion (LFI).md",
+    "Theory/HTB Academy/Penetration Tester PATH/File Inclusion/Intro.md",
+    "Theory/HTB Academy/Penetration Tester PATH/File Inclusion",
+    "Machines/HTB_yummy/yummy.xmind",
+    "Machines/HTB_yummy/notes.md",
+    "Machines/HTB_yummy",
+    "Theory/HTB Academy/Penetration Tester PATH/SQLi.md",
+    "Theory/THM/Advanced SQLi.md",
+    "Theory/THM/SSTI.md",
+    "Pasted image 20240912050008.png",
     "Pasted image 20240816142643.png",
-    "Pasted image 20240816142105.png",
-    "Pasted image 20240816141250.png",
-    "Pasted image 20240816135446.png",
-    "Machines/HTB_Bizness/Bizness10.10.11.252.jpg",
-    "Theory/PortSwigger/CORS.md",
-    "Theory/HTB Academy/Penetration Tester PATH/File Transfers",
-    "Pasted image 20240812170319.png",
-    "Disaster Box/index.md",
-    "Theory/HTB Academy/Penetration Tester PATH/Information Gathering/3. DNS.md",
-    "Theory/HTB Academy/Penetration Tester PATH/Information Gathering/2. WHOIS.md",
-    "Theory/HTB Academy/Penetration Tester PATH/Information Gathering/1. Intro.md",
-    "Machines/HTB_perfection/notes.md",
-    "Machines/HTB_Headless/commands.md",
-    "Machines/HTB - Usage/usage1.png",
-    "Machines/HTB_Bizness/Bizness.xmind",
-    "Machines/HTB_Bizness",
-    "Machines/HTB_season6_resource/season6_resource.xmind"
+    "Pasted image 20240724154028.png",
+    "Pasted image 20240724154210.png",
+    "Pasted image 20240706184117.png",
+    "Theory/Pasted image 20240729171335.png",
+    "Theory/Pasted image 20240205071419.png",
+    "Theory/Pasted image 20240204095105.png",
+    "Theory/Pasted image 20240203102931.png",
+    "Theory/HTB Academy/Penetration Tester PATH/Passwords Attacks/Pass the Hash (PtH).md",
+    "Theory/HTB Academy/Penetration Tester PATH/Passwords Attacks/Remote Passwords Attacks.md",
+    "Theory/HTB Academy/Penetration Tester PATH/Passwords Attacks/Attacking SAM.md",
+    "Theory/HTB Academy/Penetration Tester PATH/Passwords Attacks/Credential Hunting Windows.md",
+    "Theory/HTB Academy/Penetration Tester PATH/Passwords Attacks/Credential Hunting Linux.md",
+    "Theory/HTB Academy/Penetration Tester PATH/Passwords Attacks/Atacking LSASS.md",
+    "Theory/HTB Academy/Penetration Tester PATH/Passwords Attacks/Attacking Active Directory & NTDS.dit.md",
+    "Disaster Box/Create share with impacket.md",
+    "Theory/HTB Academy/Penetration Tester PATH/Footprintin/IPMI 623 UDP.md",
+    "Theory/HTB Academy/Penetration Tester PATH/Footprintin/Oracle TNS.md",
+    "Theory/HTB Academy/Penetration Tester PATH/Footprintin/MSSQL.md",
+    "Theory/HTB Academy/Penetration Tester PATH/Footprintin/SNMP.md",
+    "Theory/HTB Academy/Penetration Tester PATH/Footprintin/MySQL.md",
+    "Theory/HTB Academy/Penetration Tester PATH/Footprintin/Footprint.md",
+    "Theory/HTB Academy/Penetration Tester PATH/Footprintin",
+    "Machines/HTB_cicada/notes.md",
+    "Machines/HTB_cicada/Commands.md",
+    "Machines/HTB_cicada/cicada.xmind",
+    "Machines/HTB_cicada",
+    "Machines/HTB_trickster/trickster.xmind",
+    "Machines/HTB_trickster",
+    "Machines/HTB_caption/caption.xmind",
+    "Machines/HTB_caption",
+    "Machines/HTB_Headless/Headless10.10.16.8.jpg"
   ]
 }
