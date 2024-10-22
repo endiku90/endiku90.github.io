@@ -64,6 +64,6 @@ La inyección JNDI (Java Naming and Directory Interface Injection) es una vulner
 
 #### Sources
 
-https://www.youtube.com/watch?v=w2F67LbEtnk
-https://github.com/o7-Fire/Log4Shell
-https://medium.com/@hackingvarangian/log4shell-vulnerability-part-1-minecraft-poc-ef770e5800de
+[[https://www.youtube.com/watch?v=w2F67LbEtnk]]
+[[https://github.com/o7-Fire/Log4Shell]]
+[[https://medium.com/@hackingvarangian/log4shell-vulnerability-part-1-minecraft-poc-ef770e5800de]]

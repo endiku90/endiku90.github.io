@@ -44,5 +44,5 @@
 
 
 #### Sources
-https://loghmariala.github.io/posts/Cicada/
-https://www.hackingarticles.in/windows-privilege-escalation-sebackupprivilege/
+[[https://loghmariala.github.io/posts/Cicada/]]
+[[https://www.hackingarticles.in/windows-privilege-escalation-sebackupprivilege/]]

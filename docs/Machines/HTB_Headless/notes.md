@@ -69,4 +69,4 @@ Exploitation in this case is direct: just create a **initdb.sh** which executes 
 ![[Headless10.10.16.8.jpg]]
 #### Sources
 
-https://book.hacktricks.xyz/pentesting-web/xss-cross-site-scripting#xss-common-payloads
+[[https://book.hacktricks.xyz/pentesting-web/xss-cross-site-scripting#xss-common-payloads]]

@@ -89,5 +89,5 @@ hashcat -a 3 -m 1400 hash_5 susan_nasus_?d?d?d?d?d?d?d?d?d
 ![[Pasted image 20240707170219.png]]
 
 #### Sources
-https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection#erb-ruby
-https://cheatsheet.haax.fr/passcracking-hashfiles/hashcat_cheatsheet/
+[[https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection#erb-ruby]]
+[[https://cheatsheet.haax.fr/passcracking-hashfiles/hashcat_cheatsheet/]]

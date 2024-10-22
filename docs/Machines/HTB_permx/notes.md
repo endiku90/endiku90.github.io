@@ -103,6 +103,6 @@ vi file
 
 ![[permx10.10.11.23.png]]
 #### Sources
-https://starlabs.sg/advisories/23/23-4220/
-https://gtfobins.github.io/gtfobins/setfacl/
-https://infinitelogins.com/2021/02/24/linux-privilege-escalation-weak-file-permissions-writable-etc-passwd/
+[[https://starlabs.sg/advisories/23/23-4220/]]
+[[https://gtfobins.github.io/gtfobins/setfacl/]]
+[[https://infinitelogins.com/2021/02/24/linux-privilege-escalation-weak-file-permissions-writable-etc-passwd/]]

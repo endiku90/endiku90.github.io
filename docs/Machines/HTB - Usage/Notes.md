@@ -165,5 +165,5 @@ We are root it.
 
 #### Sources
 
-https://flyd.uk/post/cve-2023-24249/
-https://book.hacktricks.xyz/linux-hardening/privilege-escalation/wildcards-spare-tricks
+[[https://flyd.uk/post/cve-2023-24249/]]
+[[https://book.hacktricks.xyz/linux-hardening/privilege-escalation/wildcards-spare-tricks]]

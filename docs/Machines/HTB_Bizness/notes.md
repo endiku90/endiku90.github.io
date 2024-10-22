@@ -68,10 +68,9 @@ Looking for credentials, OFZBiz has a database. We can export it and then look o
 ![[Bizness10.10.11.252.jpg]]
 #### Sources
 
-https://github.com/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz/blob/main/ofbiz_exploit.py
+[[https://github.com/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz/blob/main/ofbiz_exploit.py]]
 
-https://blog.sonicwall.com/en-us/2023/12/sonicwall-discovers-critical-apache-ofbiz-zero-day-authbiz/
+[[https://blog.sonicwall.com/en-us/2023/12/sonicwall-discovers-critical-apache-ofbiz-zero-day-authbiz/]]
+[[https://db.apache.org/derby/docs/10.0/manuals/tools/tools23.html]]
 
-https://db.apache.org/derby/docs/10.0/manuals/tools/tools23.html
-
-https://github.com/frohoff/ysoserial
+[[https://github.com/frohoff/ysoserial]]

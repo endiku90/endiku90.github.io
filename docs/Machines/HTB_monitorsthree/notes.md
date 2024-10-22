@@ -96,8 +96,8 @@ Here, we can back up /marcus and /root and take flags.
 
 #### Sources
 
-https://github.com/Cacti/cacti/releases
-https://www.stationx.net/sqlmap-cheat-sheet/
-https://github.com/duplicati/duplicati/issues/5197
-https://n3nu.medium.com/how-to-pivot-using-chisel-e59b1987e252
-https://ap3x.github.io/posts/pivoting-with-chisel/
+[[https://github.com/Cacti/cacti/releases]]
+[[https://www.stationx.net/sqlmap-cheat-sheet/]]
+[[https://github.com/duplicati/duplicati/issues/5197]]
+[[https://n3nu.medium.com/how-to-pivot-using-chisel-e59b1987e252]]
+[[https://ap3x.github.io/posts/pivoting-with-chisel/]]
